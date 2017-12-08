@@ -1,0 +1,6 @@
+framework module Pods_WebFishes {
+  umbrella header "Pods-WebFishes-umbrella.h"
+
+  export *
+  module * { export * }
+}
